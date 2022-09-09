@@ -150,4 +150,7 @@ onEvent('jei.hide.items', event => {
 	event.hide('friendsandfoes:buttercup')
 	event.hide('friendsandfoes:iceologer_spawn_egg')
 	event.hide('friendsandfoes:moobloom_spawn_egg')
+
+	//Broken bamboo
+	//event.hide('everycomp:fd/twigs/bamboo_cabinet')
 })

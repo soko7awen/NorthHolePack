@@ -101,6 +101,28 @@ onEvent('recipes', event => {
 	event.remove({output: 'wildbackport:mangrove_chest_boat'})
 	event.remove({output: 'wildbackport:acacia_chest_boat'})
 	event.remove({output: 'wildbackport:jungle_chest_boat'})
+
+	//Bamboo recipes
+	event.shaped('everycomp:fd/twigs/bamboo_cabinet', [
+		'SSS',
+		'T T',
+		'SSS'
+	  ], {
+		S: 'twigs:stripped_bamboo_slab',
+		T: 'twigs:stripped_bamboo_trapdoor'
+	  })
+
+	event.remove({output: 'everycomp:bp/twigs/bamboo_backpack_shelf'})
+
+	  event.shaped('everycomp:bp/twigs/bamboo_backpack_shelf', [
+		'   ',
+		'BSB',
+		'T T'
+	  ], {
+		S: 'twigs:stripped_bamboo_slab',
+		T: 'minecraft:stick',
+		B: 'twigs:bundled_bamboo'
+	  })
 })
 
 onEvent('item.tags', event => {
