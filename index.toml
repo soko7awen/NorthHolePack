@@ -14669,18 +14669,6 @@ file = "global_packs/required_resources/Aero's Resource Overrides/pack.mcmeta"
 hash = "5d832e0ea28a339b3baf0f5956c4be257dec95683d28f523c2756e52940c8e1c"
 
 [[files]]
-file = "global_packs/required_resources/Alexish Mobs v1.0.zip"
-hash = "533b3081ebb13be18ad8b065c65d0819cb112e1bd8113de77389ff04305a8648"
-
-[[files]]
-file = "global_packs/required_resources/NorthHolePack.zip"
-hash = "b84158804472bea5f507e32a7b6060097d65e8b9bd1028fdf59a022e8c956741"
-
-[[files]]
-file = "global_packs/required_resources/waystones.zip"
-hash = "ba3f452e19564aa9045fae7d9d3689b5ca01fbd7267430cb7e5fe44efc96d958"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
@@ -15005,6 +14993,11 @@ file = "kubejs/startup_scripts/script.js"
 hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "af3cd35c5a473d574b60bb2e2c514ac2cad1d8aa25cd36c8be301c9b8ec5982b"
+metafile = true
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "0cfa8e8164d519f22db4acbb3cfcbc39ad05051760985e08558a89dbbceff914"
 metafile = true
@@ -15181,7 +15174,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
+hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
 metafile = true
 
 [[files]]
@@ -15276,7 +15269,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "37e5260d712448aedead0286912d3453824d45effaef68364284afbff6c06909"
+hash = "805dded546acbf94889d96bceacb5496f7e84054dfd7a00b1970968522287ad1"
 metafile = true
 
 [[files]]
@@ -15448,14 +15441,6 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "18509e12bcbe9da72660134894d17610b33e76c3212a107b8800e416fb94659f"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Infernal Resources.zip"
-hash = "d8f9ad919602ab59a672e8c9efc34a2e6c402c2436471e3ce7faf4134a41c466"
-
-[[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
 [[files]]
 file = "servers.dat"
