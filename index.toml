@@ -1,0 +1,65 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "e4f4dc48d22bc45f4e190e0e72adedbe8054046e50da3cc6fdcf1b36250c09c7"
+
+[[files]]
+file = "config/biomesoplenty/generation.toml"
+hash = "eabf2f3e798a6ddda97ce2da00e4d8a8ad8f8eceab2a33d2141efe6a51038d99"
+
+[[files]]
+file = "config/blueprint-client.toml"
+hash = "89ef9f568d793018db983b9f944e85876a4cebd408f8f4d2182b3c38fa44ef7e"
+
+[[files]]
+file = "config/blueprint-common.toml"
+hash = "d335fd00458005d989d55a6615073d5b390ea08d5e1d129229518f90d5d3ef9b"
+
+[[files]]
+file = "config/everycomp-registry.toml"
+hash = "83cce62b7ace5b883e261e52e5a9960eddcd3f5a84c76b04dccc59efc73785b3"
+
+[[files]]
+file = "config/fml.toml"
+hash = "7b7d580fbddb34b59cfa2b08130e4514d7f84ddf33bd61e03c25299997ab5f4c"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "2aa7cdace029b756cf6d292ce221cfc08f2577084277b3fc9d6cbed8edf17c04"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "c0ed1acc7a1c1e63fb6034a0d1f692168797d0b136097f756a698dac9d3a14ab"
+
+[[files]]
+file = "config/neapolitan-common.toml"
+hash = "ee9cbcb3be54f76fea1e67e04ccb4cc86a2327e30f322e8ea34420c2dcc5d4d4"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "a8167be6fb3bdc5dceab377b72b72e5b1ccb9f46949e1eab77dcb1844209efe1"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "11ef4c2666fa094b456310710c2b5cb8babbd71982d4d187c9a80ad4011d8014"
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "c43aacfdbd6e2dacb321a3f4d48f9c072a588aade8b3c372d4c22f450b4e9ec7"
+metafile = true
+
+[[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "04d26d2c0bb6f78d862b5e4a4232c43cd88b5dfa182effce2fc9749c4bde8d13"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
+metafile = true
