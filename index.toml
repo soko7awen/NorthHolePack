@@ -15994,13 +15994,5 @@ hash = "18509e12bcbe9da72660134894d17610b33e76c3212a107b8800e416fb94659f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Infernal Resources.zip"
-hash = "d8f9ad919602ab59a672e8c9efc34a2e6c402c2436471e3ce7faf4134a41c466"
-
-[[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
-
-[[files]]
 file = "servers.dat"
 hash = "3c0299da00494cab78de18fa6cac6466906e381f23e8f730b3fc20ec14e2e8c1"
