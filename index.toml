@@ -14293,10 +14293,6 @@ file = "config/excavated_variants.json"
 hash = "98cd96d2febf86dc29b0ccd369d322c997729840cf093b40714deddf1d2579a8"
 
 [[files]]
-file = "config/excavated_variants/.json"
-hash = "0ad7ccf2ffa7699ca51c6cfa3fba978b28dcfede4e43afbc2292fd0bb1080aa5"
-
-[[files]]
 file = "config/excavated_variants/ae2.json"
 hash = "d7a8d4c2f11a8837cfa25118865256c1f67ba8b11b04b1125dcd1493bd1eaafb"
 
@@ -14667,6 +14663,566 @@ hash = "1e70df3e681b308a94df55e1b898d2a0c84edde27f5b60f88d8524421289bf8d"
 [[files]]
 file = "global_packs/required_resources/Aero's Resource Overrides/pack.mcmeta"
 hash = "5d832e0ea28a339b3baf0f5956c4be257dec95683d28f523c2756e52940c8e1c"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/book/animal_dictionary/elephant.json"
+hash = "c12caa8c5556102711a733f99bc20aab4ad6695aa99f5dbd47e48677a599d69f"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/book/animal_dictionary/en_us/elephant.txt"
+hash = "87d03787cfd81deb70ff4b3f2404374332625e7ea46746386a5cdad6eafd9b1b"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/book/animal_dictionary/en_us/grizzly_bear.txt"
+hash = "6b8c1d98472eb214e7fa71258e156b86cbc2f3fb6e7aef490f144f469034e93e"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/book/animal_dictionary/en_us/rattlesnake.txt"
+hash = "22d46465ee2ae84b0324c1493c9508e202fd4ab08f212b15de399eefafb5c4e5"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/book/animal_dictionary/en_us/rhinoceros.txt"
+hash = "c22694db80b39dd39c79c166132ae882580ac7ac8ee2299c16d6677b15e661c2"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/book/animal_dictionary/grizzly_bear.json"
+hash = "a2bd48662b05437066085b7cd5150d95f864b8faf7cab49a1014ac602142f2c7"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/book/animal_dictionary/rattlesnake.json"
+hash = "41e82ee90553d4953189c28db14f9d246796844b1c82d263ce9136cd8b852083"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/book/animal_dictionary/rhinoceros.json"
+hash = "a1d510cedfccd1976341e78699d4c25d27b73167f6b81f931be16d53955b553f"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/lang/en_us.json"
+hash = "9488c6d799d36e4b375a2ba0e8a8870121bfe60f44850c85130800474ddd3390"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/models/item/spawn_egg_elephant.json"
+hash = "6d263944986283721af1b0a51c50af2c8cf9da10e0d1211290f3c368d1463387"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/models/item/spawn_egg_grizzly_bear.json"
+hash = "902ac8d3971f0b9ac9b0ef3a47d61039b4d207aa8c72731121999e2e178d0432"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/models/item/spawn_egg_rattlesnake.json"
+hash = "4d25c3b71853c0bc0f48e11d1b2887dc646a3e1d30cb12f78231ee71f46e390a"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/models/item/spawn_egg_rhinoceros.json"
+hash = "cde7bd60c16ba915ab89699c81203ec9829af14692e8f49a1847fe6f2e243d9d"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/entity/elephant/elephant.png"
+hash = "1b4a421fc0f3b2d3060e1af0ecd52a9d2b1439b864eecd0d4659aecb45c3965d"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/entity/elephant/elephant_chest.png"
+hash = "f3c87be745ea547257eed67737ae77d07adf113a18159f2fbe10b3a2a89d8110"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/entity/elephant/elephant_tusks.png"
+hash = "abf835b7fd7d4fb557c80e36eb03a3bb4cef76b68e8c2c87fc727efd52925ebc"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/entity/grizzly_bear.png"
+hash = "8e755df727988791cebdddad746d6cb659363c7e53caa18b0a3f370b1f08e1d7"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/entity/rattlesnake.png"
+hash = "74b8f49d0f22dbc180607b0d7672c8566c84daf9c48c460eeef788dfd77302bf"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/entity/rhinoceros.png"
+hash = "d6ad1ec0f6aa74c817c06eb77c23950451bce6a38ac4852838e7d92d9b9f8541"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/entity/rhinoceros_angry.png"
+hash = "bdc13af85de16539e7395876ab33b9c2744d64b9ace2e2a3e7fcb8401c792b9e"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/item/bear_dust.png"
+hash = "e1ad8ec957359eef4b9bbe1facab68cb7618abbb5930d59ca5c4b51e20420443"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/item/bear_fur.png"
+hash = "e4437e97ae47979975511dc7ce16b54841835772e621873c6c7bea00835da01b"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/item/black_bear_spawn_egg.png"
+hash = "255ab0fda6537f39d9cfd489a08528be0fe71c15dd62c154edc34f32d95d100e"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/item/diamondback_spawn_egg.png"
+hash = "ab99e48ed4755cee33e0010ee16e6e0d14d846f51ec7c6494b726994ccff0dc3"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/item/elephant_spawn_egg.png"
+hash = "552b7930fef9431ef036368ea915cbfa6e862280f983e510f26a61d4d05c19ab"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/alexsmobs/textures/item/rhino_spawn_egg.png"
+hash = "77a9029ea8847b36bd20538ecf38de45f0266bad006d2323116d84f4b3e3fecf"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/assets/minecraft/models/item/spawner_egg.json"
+hash = "f07c5565c3a95485b868edd933044f0a4df8a9c6fd8479d64f92cce996cc92c8"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/pack.mcmeta"
+hash = "28ac437cc71baa07daaf0aa9d1a71ad361e1493ef9a9f6bafd9edd31b76f4e5a"
+
+[[files]]
+file = "global_packs/required_resources/Alexish Mobs v1.0/pack.png"
+hash = "9de9562e7e112eb37772002a0e508c107fee6c2f3461428f3b40e50644d7d8c9"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/assets/minecraft/texts/splashes.txt"
+hash = "8e3d45e4f159caa1f334cee180a37e18dd0ea52f5593cd9ee260189fed1ecb76"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "0d7af7f2099744c08cc10a78c210a82b436e3be592950fb5e40750ae0ad716ea"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "ff99ff59afb2fd68042e9b540093caccd3b2bdc92d923e1e102fae77eef71cca"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "646f7369f93965091451638d45eeeb470997c04a8c922a793b005f069454b699"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "75771632f59a53865250bf6da62a5bd00748fbc461a3d5540d296f2b9b42ee97"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "25ee6b81349cf32c69e46f1beb01eeca4e1a8edd8603c8cc6bd019b04833f2c5"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "56159ce1be6ac8cd184c95a3106959825643eaebd445a3bde79625d657c729fe"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/assets/minecraft/textures/gui/title/edition.png"
+hash = "83855c26ce1cc66f20ac50893b37a838a28ec389c3a43b46d989be09d6af9bb7"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "a02545df20ad0a292ed10260e3b610308e29ad6560ac8d4b0b0a1b7d3038639b"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/pack.mcmeta"
+hash = "70e7ee42e3df80cb22b12f06722524991dca6bdf964f57f733c30b04922b2560"
+
+[[files]]
+file = "global_packs/required_resources/NorthHolePack/pack.png"
+hash = "410f64e0727d95f98c880ab5e4aa992f90e9f77272b4271bcac3036b3bf0272b"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/black_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/blue_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/brown_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/cyan_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/gray_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/green_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/light_blue_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/light_gray_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/lime_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/magenta_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/mossy_waystone.json"
+hash = "ca88a911c96b468c0d5d6eeb1d8fcfe6a5829e4720c30ec959fdc6ce535d6a6f"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/orange_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/pink_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/portstone.json"
+hash = "828dbb5127f9112107d62321bd6df28683c2ceb4dfa287c49b8c95731b4d818e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/purple_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/red_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/sandy_waystone.json"
+hash = "a53821223c28bac230679547594059e0bfb0426c9ad667effbc4b2b8bf324fe7"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/warp_plate.json"
+hash = "9fcfab2dbb376d1fa6f10fe27754f64c62e88c417a6356e7c69ca5dbc915246a"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/waystone.json"
+hash = "83084894b22328af2593427d5a487578586ac40d84e3918991281f5a6dd6be20"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/white_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/blockstates/yellow_sharestone.json"
+hash = "a848841b6f54fffe0a9a0ef703ac8f39c2e2f893b15ee75c4bfd91d21875be7e"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/lang/en_us.json"
+hash = "29714c2af8fde4ec181c438e010083da6167d09b46c103fc340e7e2f8570d997"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/lang/fr_fr.json"
+hash = "d9d6d39b60949e7e4d0229bfc76829b29fc1a7dbaffdca3b6a213ddbf39dbbdd"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/lang/hu_hu.json"
+hash = "99d777e69517c867ea6c98ef652b0d1f8104fe2277e466c7b00729b45e745b03"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/lang/ko_kr.json"
+hash = "5479e52eee376abf6e8d2ce0749d9f89504a4af205bfddd37a3ca16c0ca6cb14"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/lang/pt_br.json"
+hash = "db8dff0e881178a7c2723809e03f22121b83ad0b039f1c58bffbfccf36e24923"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/lang/ru_ru.json"
+hash = "7228fc3daa9c8e9cacb391c0634c5bda603ba4b63af5df76695e0b642252331f"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/lang/uk_ua.json"
+hash = "5b98d16cd3aad26383beb11f8b2656f46c27c83cd064be586598eda8c9e27103"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/lang/zh_cn.json"
+hash = "d48b9a5f6d709b4a5106fb5b413b36db81569a4fa1809ac9e2b724f5818da945"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/lang/zh_tw.json"
+hash = "86b7126c3335cc8dca1048a8acc58f27f33f7d3f541a9da1ed939d7c398ae593"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/mossy_waystone_bottom.json"
+hash = "62e1a58effad67c7c1eef8c54cfebfec7bf1d59b07b696daabeb65a26cc2fd12"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/mossy_waystone_top.json"
+hash = "93b593d60e9cfc5009e511c97efedd2090b21dde342ebfd84a632e384234dc98"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/portstone_bottom.json"
+hash = "0348019b34d9143d015c77680cb33c4689f3b2d6490d12542ffc21edeb634776"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/portstone_top.json"
+hash = "e41226757fc56f89c4d4e0489c9bd3ab5ddfc20a8b543e44ea40ed14da8a9c0a"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/sandy_waystone_bottom.json"
+hash = "61d28bbe9444ee04af9c1778de1f0030e6cad968569b5b25598d60e77e739609"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/sandy_waystone_top.json"
+hash = "82b0911a8f599e4889011ef3d7ca358bd98d5e53f79ecb38c2d106339a495cd4"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/sharestone_bottom.json"
+hash = "fac66f03e4e79c017a445072edf0c451c6c9deb12954a1f5ecbe03a62a347245"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/sharestone_top.json"
+hash = "70513e7bcf1ec0cd8d630fc118e620b9be7814cf3dcac42e41bfb2bfb2149199"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/warp_plate.json"
+hash = "12a0a8126aa78d2aa333b755084741a2a70370c5e79e565447d977d57382c8ff"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/waystone_bottom.json"
+hash = "b2d934d41b3ed40abfe13168ab95acd19b966cf3adbf3721bdba790058c01001"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/block/waystone_top.json"
+hash = "9c06ea3f87063475defc51a396e595a9a0905a2c2a7469ae35576c37ef92943f"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/attuned_shard.json"
+hash = "51d03b8eef956c2f9a0d67d2dfd584028d65f77f6c2c74f4d4e95a876159b8b3"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/black_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/blue_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/bound_scroll.json"
+hash = "c65ec741ca651bad656d617ed8648f69b6342638803d02a0dbe43fa5baa4ef9a"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/brown_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/cyan_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/gray_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/green_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/light_blue_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/light_gray_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/lime_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/magenta_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/mossy_waystone.json"
+hash = "7902defff8e480025ad0fa89d341eac24ade7a9aa1e7f0ffb1db2f0b00b8eb4b"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/orange_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/pink_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/portstone.json"
+hash = "82efe4eb7122e866f11e0fa542d56eaa2c80dcb63f46fe7b111bd6bb0fbd0780"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/purple_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/red_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/return_scroll.json"
+hash = "56be1bcaab584cd02262819f838b09deab5eeb2cf39f48fd0dd57b4e4e508da6"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/sandy_waystone.json"
+hash = "444542f47aacfabf87297c81a93934f724a5991cdf0bb7caa15937bd058f29a7"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/scoped_sharestone.json"
+hash = "b913e71d9f1adb113d75b46fe4af480f3f463189218e579d97fc12c76a6f3881"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/sharestone.json"
+hash = "236e060e77f75247428cfc1e653e6de5612a7f7c0571d6a4c56e79a22b33318c"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/warp_dust.json"
+hash = "67149abe6925ec950e8f5571445605d22099b694d0a632d4bb1fe2369732084c"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/warp_plate.json"
+hash = "316fafafa5e682c69786b277e916470ae8927d26f511471d31425a1bafc9e734"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/warp_scroll.json"
+hash = "9148d828eaf2e97a20ebd59e552adcf48442369f76c95ba7c0e628ff42892983"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/warp_stone.json"
+hash = "9ddfce4ec423d74822b2bb807dd915086d511904f3cdd27e6ff885b934ba31eb"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/waystone.json"
+hash = "06f8f278e0b72bcd32a7d63c8297e48529aeafc3e9acda28b5a78abc6b49e2ba"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/white_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/models/item/yellow_sharestone.json"
+hash = "3800b0e80aa9bd8c7566f4f3a3b56ae7b390c9926bc41d944d6b99566472ce19"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/andesite_wayston.png"
+hash = "638129b5429502a72fc8e466537cd9d07695ae6a85907f84103d39f0a29335b6"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/andesite_wayston_top.png"
+hash = "20b663c988bf09adad4776ea348b5aff927ee10e8df7e75346d7061898de8d29"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/andesite_waystone_botton.png"
+hash = "2692a39786325a885a994691cd935d891bcf4e4c775ae3e6abb4ce0b08824684"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/chiseled_sandstone_waystone.png"
+hash = "c1fa11d3b63dcdd497e268fb699145385115616c128ae4663b5e6858437eb145"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/chiseled_sandstone_waystone_botton.png"
+hash = "e57733cb5c24f3a9c78421fe1dcd01f7234ef5795265bfd7f1afc7aadbc60556"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/chiseled_sandstone_waystone_top.png"
+hash = "fff12818e62c280681d133ae98e00094e66c56e940243910ba8850fafc743e7d"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/moss_template.png"
+hash = "54f03ad91b56b85d55f6c7ec34ce3395ef32c5a538e295ba807e7e560010cd3f"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/mossy_waystone.png"
+hash = "d30df5f6fe3214155749e0fe0016d1269300fca61be83c710046dbefd1dc740a"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/mossy_waystone_botton.png"
+hash = "11fbf2db6f997aaab24a4286f0a36cacea982cee5dd44417abb538831b3c0b94"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/mossy_waystone_top.png"
+hash = "f4479d15fb2a13e0789b70cdc4ab788d4922a5c8bdd886e0faeb6e1368e2929b"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/portstone_top.png"
+hash = "d344b7a408183d37355fc02b496d50fc33bd72e4fc971ddf5100f37fa20b224a"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/portstone_top_botton.png"
+hash = "329252223613ee2256146d0c9d4126f23f78a73df95d9990e99da57e9f177925"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/portstone_top_top.png"
+hash = "08e94eae72dcb2258d8a7def7f99ea10ec6f934cb6ed1f91845d181fb934ff7f"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/block/warp_plate.png"
+hash = "c47b1a440623be38a8c7cc7cbe9ecf183404ef7cd1f5c4c349c2d5717b79e062"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/entity/portstone.png"
+hash = "81697eadb3f628778143e560d1bdaccbaaf33e18b28fed8c775db4049d71941d"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/entity/sharestone_color.png"
+hash = "bea45ab500d60c7fd18b971a9ab5895a5a622e4307f6a7114e7bb8b41951f1af"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/entity/waystone_active.png"
+hash = "080d384c9c27dbf04ce3a90a0af415f75da150281be637e8b86e91cac7cb9748"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/gui/checkbox.png"
+hash = "823bbdf761607f1cf053cb58b1024340ac96dd4702e8dd60df6852f61a8b5d8d"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/gui/inventory_button.png"
+hash = "5860a501f6bbafb6cb3fd3818e6b24ef9013808625ff61b4b0ac9677e5c3f5bb"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/gui/jei/warp_plate.png"
+hash = "bb493f866ace374a11f907b3d42a99c7dbc0a25f4eeec2026642097db21311d6"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/gui/menu/warp_plate.png"
+hash = "ceaa4bf05ca888b9761fef352a2553f96f10115ef3a5fbc13de46f009822d5dc"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/item/attuned_shard.png"
+hash = "f20e55e75c9cc0099217593a72b546486cd917e28c9b4bced18008de18d98c21"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/item/bound_scroll.png"
+hash = "9d29305fcaab50a240a3eaa3d64467964065d9ac70de2fd322deb1d54203f3a6"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/item/return_scroll.png"
+hash = "1e3575cdf387d05ea1ba14adb5e59b7e9d6d8864a651663842c83fd3d6569d09"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/item/warp_dust.png"
+hash = "53dc4c6af323af1c347d654f29a8a24cb1fceaa3c7e4b835d4663ee3ce78f32d"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/item/warp_scroll.png"
+hash = "b2cfaee9358a584d90b5ba53bf69d9234bbb9bbb2b994ff39f342ca34de98667"
+
+[[files]]
+file = "global_packs/required_resources/waystones/assets/waystones/textures/item/warp_stone.png"
+hash = "d055cd846fb45a5581b0e229f1f947063081187a60b73a36414f426f66f97fca"
+
+[[files]]
+file = "global_packs/required_resources/waystones/pack.mcmeta"
+hash = "49f5d2fa774436d5bb40cafa301f8f2d85d68577c11c5edb606d90b11928e38f"
+
+[[files]]
+file = "global_packs/required_resources/waystones/pack.png"
+hash = "365bc0719920f9973a8a65e9b04777158ce7f9be27dd9e437ec0083c7fd716d7"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -15436,6 +15992,14 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "18509e12bcbe9da72660134894d17610b33e76c3212a107b8800e416fb94659f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Infernal Resources.zip"
+hash = "d8f9ad919602ab59a672e8c9efc34a2e6c402c2436471e3ce7faf4134a41c466"
+
+[[files]]
+file = "resourcepacks/Quark Programmer Art.zip"
+hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
 [[files]]
 file = "servers.dat"
