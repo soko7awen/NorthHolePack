@@ -15353,11 +15353,6 @@ hash = "35f6a7e6990c39ee139c92e9d5ca0ae60734ce90f527067f1b790a7459ca8a17"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "8cd8c8b9030e93a78be3da2cd2507fa1ef3734fae96e57fff14273041dddab64"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
 metafile = true
