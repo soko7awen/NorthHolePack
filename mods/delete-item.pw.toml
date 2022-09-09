@@ -1,0 +1,13 @@
+name = "Delete Item"
+filename = "itemdelete-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee4c1b4e66ff37000a300c09ff5c3902370d632e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3722963
+project-id = 448367
