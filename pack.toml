@@ -1,5 +1,5 @@
 name = "North Hole Pack"
-version = "1.1.3"
+version = "1.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -8,5 +8,5 @@ hash-format = "sha256"
 hash = "e5cf5ca8ee8405a2e10716c2a5b4a208733b875b1d3b4da472d34149a4f1c9bd"
 
 [versions]
-forge = "40.1.76"
+forge = "40.1.79"
 minecraft = "1.18.2"
