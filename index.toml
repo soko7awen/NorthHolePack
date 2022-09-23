@@ -15238,7 +15238,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
-hash = "d150c6360bfe92b22ea9f972326467c30c45157318f6b2c44ce3699861e51045"
+hash = "dacf584898b2ce4880c0de3ee9e80f75526bcb36e9a1fd713e4d23954919a386"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -15421,6 +15421,10 @@ file = "kubejs/exported/tags/villager_type.txt"
 hash = "3f938aac87ee1a0fb7408337624a17b793fc0024862b5607f52c29376ccc13dd"
 
 [[files]]
+file = "kubejs/exported/tags/wildbackport/instrument.txt"
+hash = "a0846c59fb897de22fbd6b1fdae8561498e4e29c8cc631b450f42c02a09cc0e0"
+
+[[files]]
 file = "kubejs/exported/tags/wildbackport/worldgen/root_placer_type.txt"
 hash = "3f938aac87ee1a0fb7408337624a17b793fc0024862b5607f52c29376ccc13dd"
 
@@ -15542,7 +15546,7 @@ hash = "3f938aac87ee1a0fb7408337624a17b793fc0024862b5607f52c29376ccc13dd"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "b0d7d44016d0fbac13b886220c7f95c08c8675affd45da9df9f5276714ae2446"
+hash = "555bd30ad0123044a112ced51c1006ee620928251eda4872e91e737bc251300d"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -15579,13 +15583,18 @@ hash = "099ef5ce3f8da33deb77a69b2d308d4cd44552ce5343468d06ba1713847c7318"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas.pw.toml"
+hash = "b91c03f81655254cfe611f7ebdaba6276383e4de9fb35e77b2402796774d912c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6e8eca661f6e9a5dabe7abdd55ec88b1d56b442da5f2f575ba8fe5089cb5011c"
+hash = "a4b435f93d0a70d1d71359024fbf3d4eff8ec653f6f4e90acdfe9c6dce656634"
 metafile = true
 
 [[files]]
@@ -15635,7 +15644,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "c43aacfdbd6e2dacb321a3f4d48f9c072a588aade8b3c372d4c22f450b4e9ec7"
+hash = "834cd67910e45c91ccc6528a40048fc4c02d1d8dc52f371fcba4891544684777"
 metafile = true
 
 [[files]]
@@ -15670,7 +15679,7 @@ metafile = true
 
 [[files]]
 file = "mods/compat-o-plenty.pw.toml"
-hash = "f982545122a4aca97c373c721c62a751726f230c5c2c61077e05467c9d6d6a29"
+hash = "7801b6109f7dc500648064aa8c913348b71bfc182b086fb108cca8c828a46de1"
 metafile = true
 
 [[files]]
@@ -15715,7 +15724,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecologics.pw.toml"
-hash = "ec5d20b588e214d6f9fb48d29464a4671f7d74882e233df324911755077801b9"
+hash = "1c7f0eb08457e6f25f6333fd3b8f2268ccee84d3031d0646c00b366296fc51f2"
 metafile = true
 
 [[files]]
@@ -15750,7 +15759,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
+hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
 metafile = true
 
 [[files]]
@@ -15775,7 +15784,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "39ed79ad646d623fae1820eaa45b98e91034a6cab5655c7dd6ac184d6da9c503"
+hash = "2137a8c4fc4a879a53adde15433e5e795135d93c0dd2ae2d22dff3df5f5af67b"
 metafile = true
 
 [[files]]
@@ -15814,11 +15823,6 @@ hash = "52a0bbf331ca024693339e04a9d9636de92cdde98c3ed562afcf5dcdceacef1a"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases-forge.pw.toml"
-hash = "15956aeb4f0a011fbf98d95d1654a80e36dd1ae6ef3a6a1f31bae33ce79a03f6"
-metafile = true
-
-[[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "04d26d2c0bb6f78d862b5e4a4232c43cd88b5dfa182effce2fc9749c4bde8d13"
 metafile = true
@@ -15850,7 +15854,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "defab99dd482c1a1c0cce7b250fd2a7371806344d02a499cfadcad0fbd7499bc"
+hash = "93b1608ae4b02bb55879d0c47a58b931127dc2f8b6dc80aa281ee30eca795e31"
 metafile = true
 
 [[files]]
@@ -15920,7 +15924,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8f9058b0180cce1e40523e95a4558abe9147a1f928e8fba05704deeb29637f78"
+hash = "d71c01fdea9aa7fc640c24a2366d1d3fd3cfe69a1f81e056ff2e5a37cf4c5bfa"
 metafile = true
 
 [[files]]
@@ -15935,7 +15939,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-wild-backport.pw.toml"
-hash = "0625f3cc19ea67d9418e8a452d464571b8a45628f81909c3c52b383a568c8d72"
+hash = "5b9766d2b3accd2a2c756af86195a8a91de30c801210c96c4787ae0a70884c57"
 metafile = true
 
 [[files]]
